@@ -1,4 +1,3 @@
-Oke! 🔥 Berikut versi **singkat dan rapi** dari README kamu — cocok untuk GitHub tapi tetap terlihat profesional 👇
 
 ---
 
